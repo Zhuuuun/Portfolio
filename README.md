@@ -63,6 +63,6 @@ students and contributing to the camp's organization. Ensuring a positive and ma
 # Contact 📞
 
 Email : kobkit.zhun@gmail.com\
-LinkedIn : https://www.linkedin.com/in/kobkit-ruangsuriyakij-79ba5528b/\
+LinkedIn : https://www.linkedin.com/in/kobkit-ruangsuriyakij-79ba5528b/ \
 Github : https://github.com/Zhuuuun\  
 Medium : https://medium.com/@kobkit.zhun
